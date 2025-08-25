@@ -3,8 +3,11 @@ Scripts for statistics and plotting figures in "Metagenomics and Digital Cell Mo
 
 
 */Fig1-2#Raw datasets and associated figure PDFs
+
 */Protein_sequence#215 files containing protein sequences
+
 */model#Including the model constructed by CarveMe and the model refined by MQC
+
 */script#The script files employed for model construction and simulation in this study
 
 Metabolic Model Construction & Simulation Pipeline
