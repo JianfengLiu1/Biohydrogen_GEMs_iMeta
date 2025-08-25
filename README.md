@@ -11,7 +11,7 @@ Scripts for statistics and plotting figures in "Metagenomics and Digital Cell Mo
 */script#The script files employed for model construction and simulation in this study
 
 
-Metabolic Model Construction & Simulation Pipeline
+# Metabolic Model Construction & Simulation Pipeline
 
 This repository contains all scripts, methods, models, and results for constructing, quality-controlling, processing, and simulating genome-scale metabolic models of 215 bacterial strains. We:
 
