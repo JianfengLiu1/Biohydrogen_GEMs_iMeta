@@ -12,4 +12,5 @@ Scripts for statistics and plotting figures in "Metagenomics and Digital Cell Mo
 
 
 If you use these scripts, please cite the paper below:
+
 Jianfeng Liu#, Wei Xing#, Xingyang Zhang#, Nengyao Xu#, Ran Xu#, ..., Nanqi Ren*, Cong Huang*. Metagenomics and Digital Cell Modeling Facilitate Targeted High-Throughput Sorting of Anaerobic Hydrogen-Producing Microorganisms. 2025. iMeta.
