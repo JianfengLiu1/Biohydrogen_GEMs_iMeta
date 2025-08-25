@@ -1,5 +1,5 @@
 # Biohydrogen_GEMs_iMeta
-The scripts for genome-scale metabolic models and the raw datasets underlying the figures from "Metagenomics and Digital Cell Modeling Facilitate Targeted High-Throughput Sorting of Anaerobic Hydrogen-Producing Microorganisms".published in iMeta (2025).
+The scripts for genome-scale metabolic models and the raw datasets underlying the figures from “Metagenomics and Digital Cell Modeling Facilitate Targeted High-Throughput Sorting of Anaerobic Hydrogen-Producing Microorganisms”, published in iMeta (2025).
 
 
 * /Fig1-2#Raw datasets and associated figure PDFs
